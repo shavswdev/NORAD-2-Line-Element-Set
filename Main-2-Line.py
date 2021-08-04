@@ -17,7 +17,7 @@ import math
 url_target = "http://www.celestrak.com/NORAD/elements/stations.txt"
 output_file = "/Users/williamshavce/Library/Mobile Documents/com~apple~CloudDocs/Programming/Python Files/file.txt"
 #print (url_target)
-#print (output_file)
+print (output_file)
 
 ISS_ID = "25544U"
 ISS_ID_LINE2 = "25544 "
