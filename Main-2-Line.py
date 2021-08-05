@@ -33,7 +33,7 @@ with open(output_file, 'wb') as f:
 	f.write(r.content)
 file1 = open(output_file, "r")
 
-#Create string called "TwoLine from the contents of the text file
+#Create string called "TwoLine" from the contents of the text file
 TwoLine = open(output_file, 'r').read()
 
 # Create a single string to hold the information
